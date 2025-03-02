@@ -1,5 +1,8 @@
+ 
+
 # Cinema.v2
 # GIC Cinemas Booking System
+[Python 3.9 and above]
 
 ## Intro
 

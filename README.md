@@ -231,6 +231,9 @@ Please enter your selection:
 
 Thank you for using GIC Cinemas system. Bye!
 ```
+## Run App
+python .\cinema_app.py 
+
 ## Unit Test
 python -m unittest cinema_test.py
 

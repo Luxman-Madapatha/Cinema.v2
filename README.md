@@ -228,3 +228,6 @@ Please enter your selection:
 
 Thank you for using GIC Cinemas system. Bye!
 ```
+## Unit Test
+python -m unittest cinema_test.py
+
